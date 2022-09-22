@@ -1,8 +1,5 @@
 # Tweet-Analyzer
 
-Web App Link : https://shre11-tw-app-zmodmk.streamlitapp.com/
-
-
 Images:
 ![image](https://user-images.githubusercontent.com/56075324/185561540-15e4beab-461e-44ed-9d80-d1ea84df7056.png)
 ![image](https://user-images.githubusercontent.com/56075324/185561726-3afc9a83-4daf-4bec-a72e-95f5b97fb5bd.png)
